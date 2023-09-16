@@ -54,3 +54,10 @@ form.display input{
     box-shadow: none;
     color: #272829;
 }
+form input.equal {
+    width: 145px;
+    background-color: #ffb178;
+}
+form input.operator {
+    color: #ffb178;
+}
