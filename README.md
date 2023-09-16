@@ -1,8 +1,8 @@
 # Calculator-circle-37-ass.
-Please contribute and let us know the changes you are trying to make. Thanks
+Reaching this stage hasnt been easy
+firstly, Javascript wasnt easy for most of us because we are almost new to coding just one experenced help us
+so nwe just had to look for an easier way to go about this project.
 
-The decimal point is an element used to differentiated between an integer and a floating number.
-Assigned the eval() method which returns the completion value of the code.
-The addition operator adds arguments together to get the sum.
-The subtraction operator gives us the difference between two or more arguments.
-The modulus operator used to get the remainder of two arguments
+ Secondly, getting people out was not easy at all, so we dont have much time to work together,
+but thank God we are able to achieve this in a short period of time.
+
