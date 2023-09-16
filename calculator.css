@@ -1,0 +1,15 @@
+form.display{
+    display: flex;
+    justify-content: flex-end;
+    margin: 20px 0;
+    background-color: #f0f0f0;
+    border-radius: 15px;
+
+}
+form.display input{
+    text-align: right;
+    flex: 1;
+    font-size: 45px;
+    box-shadow: none;
+    color: #272829;
+}
