@@ -14,6 +14,7 @@
                         <input type="text" name="display"/>
                     </div>
                     <div>
+<<<<<<< HEAD
                         <input type="button" value="AC" onclick="display.value = '' " class="operator">
                         <input type="button" value="DEL" onclick="display.value =  display.value.toString().slice(0,-1)" class="operator">
                         <input type="button" value="/" onclick="display.value += '/' " class="operator">
@@ -21,6 +22,12 @@
                       </div>
                     <div>
                         
+=======
+                        <input type="button" value="/"  onclick="display.value += '/' " class="operator"  >
+                        <input type="button" value="*" onclick="display.value += '*' " class="operator"  >
+                    </div>
+                    <div>
+>>>>>>> 952f9e0b3c26137c1cc901305459aea4634bba2e
                         <input type="button" value="7" onclick="display.value += '7' ">
                         <input type="button" value="8" onclick="display.value += '8' ">
                         <input type="button" value="9" onclick="display.value += '9' ">
@@ -49,15 +56,20 @@
                         <input type="button" value="%" onclick="display.value += '%' " class="operator">
                     </div>
                     <div>
+<<<<<<< HEAD
                         <input type="button" value="0" onclick="display.value += '0' ">
                             <!-- The decimal point is an element used to differentiated between an integer and 
+=======
+                        <input type="button" value="3" onclick="display.value += '0' ">
+                        <!-- The decimal point is an element used to differentiated between an integer and 
+>>>>>>> 952f9e0b3c26137c1cc901305459aea4634bba2e
                         a floating number -->
                         <input type="button" value="." onclick="display.value +=  '.' ">
                         <!-- Assigned the eval() method which returns the completion value of the code -->
                         <input type="button" value="=" onclick="display.value = eval(display.value)" class="equal operator">
                     </div>
                 </form>   
-                 <h4 class="circle-name">CIRCLE-37</h4>
+                <h4 class="circle-name">CIRCLE-37</h4>
             </div>
         </div>
     </body>
